@@ -11,8 +11,7 @@
         "format": "prettier --write \"**/*.{js,ts,vue,scss,html,md,json}\" --ignore-path .gitignore",
         "test": "echo \"No test specified\" && exit 0",
         "dev": "quasar dev",
-        "build": "quasar build",
-        "postinstall": "quasar prepare"
+        "build": "quasar build"
     },
     "dependencies": {
         "@apollo/client": "^3.13.8",
@@ -41,7 +40,7 @@
         "vue-tsc": "^2.0.29"
     },
     "engines": {
-        "node": "^28 || ^26 || ^24 || ^22 || ^20 || ^18",
+        "node": "^22",
         "npm": ">= 6.13.4",
         "yarn": ">= 1.21.1"
     }

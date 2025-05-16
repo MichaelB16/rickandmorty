@@ -1,9 +1,9 @@
 {
-    "name": "engage",
+    "name": "the_rick_and_morty",
     "version": "0.0.1",
-    "description": "A Quasar Project",
-    "productName": "Quasar App",
-    "author": "Michael <michael.sousa@terceirizados.farmarcas.com.br>",
+    "description": "The Rick and Morty",
+    "productName": "The Rick and Morty",
+    "author": "Michael <michaelbatistasousa@gmail.com.br>",
     "type": "module",
     "private": true,
     "scripts": {
